@@ -13,11 +13,11 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 🛠️ Tech Stack
 
-. React.js
-. HTML5
-. CSS3
-. JavaScript
-. Git & GitHub
+⚛️ React.js  
+🌐 HTML5  
+🎨 CSS3  
+📜 JavaScript  
+🔧 Git & GitHub
 
 📫 Contact
 
