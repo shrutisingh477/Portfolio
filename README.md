@@ -17,5 +17,8 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 . JavaScript
 . Git & GitHub
 
+📫 Contact
+Feel free to connect with me through LinkedIn or explore my projects on GitHub.
+
 👩‍💻 Author
 Shruti
